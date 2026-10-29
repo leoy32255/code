@@ -13,7 +13,7 @@
             "windowsSdkVersion": "10.0.22000.0",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "compilerPath": "\"D:\\AppGallery\\MinGW8.1\\bin\\gcc.exe\"",
+            "compilerPath": "\"D:\\Compiler\\MinGW8.1\\bin\\gcc.exe\"",
             "intelliSenseMode": "windows-gcc-x64"
         }
     ],
